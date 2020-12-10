@@ -13,7 +13,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
-        image: images/feature.svg
+        image: images/frame (1).png
         image_position: right
         actions:
           - label: Learn More
